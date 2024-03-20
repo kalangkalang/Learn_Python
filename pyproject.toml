@@ -1,0 +1,15 @@
+[project]
+name = "python_belajar"
+version = "0.1.0"
+description = "Monolith Python"
+authors = [
+    {name = "Wisma Chaerul", email = "meja.mangga@gmail.com"},
+]
+dependencies = []
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
